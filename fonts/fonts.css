@@ -1,0 +1,50 @@
+@font-face {
+  src:
+  url('../fonts/Jost-Regular.woff') format('woff'),
+  url('../fonts/Jost-Regular.woff2') format('woff2'),
+  url('../fonts/Jost-Regular.eot') format('eot'),
+  url('../fonts/Jost-Regular.ttf') format('ttf');
+  font-family: 'Jost';
+  font-weight: normal;
+}
+
+@font-face {
+  src:
+  url('../fonts/Jost-Medium.woff') format('woff'),
+  url('../fonts/Jost-Medium.woff2') format('woff2'),
+  url('../fonts/Jost-Medium.eot') format('eot'),
+  url('../fonts/Jost-Medium.ttf') format('ttf');
+  font-family: 'Jost';
+  font-weight: 500;
+}
+
+@font-face {
+  src:
+  url('../fonts/Jost-SemiBold.woff') format('woff'),
+  url('../fonts/Jost-SemiBold.woff2') format('woff2'),
+  url('../fonts/Jost-SemiBold.eot') format('eot'),
+  url('../fonts/Jost-SemiBold.ttf') format('ttf');
+  font-family: 'Jost';
+  font-weight: 600;
+}
+
+@font-face {
+  src:
+  url('../fonts/Jost-SemiBoldItalic.woff') format('woff'),
+  url('../fonts/Jost-SemiBoldItalic.woff2') format('woff2'),
+  url('../fonts/Jost-SemiBoldItalic.eot') format('eot'),
+  url('../fonts/Jost-SemiBoldItalic.ttf') format('ttf');
+  font-family: 'Jost';
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  src:
+  url('../fonts/OpenSans-Regular.woff') format('woff'),
+  url('../fonts/OpenSans-Regular.woff2') format('woff2'),
+  url('../fonts/OpenSans-Regular.eot') format('eot'),
+  url('../fonts/OpenSans-Regular.ttf') format('ttf');
+  font-family: 'OpenSans';
+  font-weight: normal;
+}
